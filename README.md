@@ -9,7 +9,7 @@ The payment gateway is managed through Stripe integration.
 # Walk-through
 
 Every new user is prompted to create a new Developer ID. This ID is to be used for logging into the application in the future and should be kept confidential. 
-On entrying the desired ID, the user is taken to the payment processing page and asked to make the payment to continue using the application. On successful payment, the user is taken to the home page. 
+On entering the desired ID, the user is taken to the payment processing page and asked to make the payment to continue using the application. On successful payment, the user is taken to the home page. 
 Each developer gets to view the pages of other developers and can also float a new page at anytime. 
 
 Developer - Harini
